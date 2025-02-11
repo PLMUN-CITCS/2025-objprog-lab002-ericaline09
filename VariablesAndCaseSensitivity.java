@@ -7,7 +7,7 @@ public class VariablesAndCaseSensitivity {
         double itemPrice = 29.99;
 
         // Declare a String Variable
-        String studentName = "Ericaline";
+        String studentName = "Alice";
 
         // Demonstrate Case Sensitivity (Variable 1)
         int counter = 10;
